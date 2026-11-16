@@ -1,0 +1,35 @@
+RAŞİT BAŞAR — SAÇ TASARIMCISI / WEB SİTESİ
+============================================
+
+PAKET İÇERİĞİ
+  index.html      → müşterilerin göreceği site
+  panel.html      → size özel yönetim paneli (PIN ile korumalı)
+  *.png           → site görselleri
+
+YAYINA ALMA (5 dakika, ücretsiz)
+  1) netlify.com/drop adresini açın
+  2) BU ZIP DOSYASINI olduğu gibi sürükleyip bırakın
+  3) 1 dakika içinde https://....netlify.app adresi hazır olur
+  (Dosyaları sürüklemek isterseniz: ZIP'i açın, içindeki 4 dosyayı bırakın.)
+
+PANEL
+  Adres: sitenizin adresi + /panel.html
+  Örnek: https://rasit-basar.netlify.app/panel.html
+  İlk açılışta 4 haneli PIN belirlersiniz. PIN'i unutursanız
+  "PIN'i unuttum" ile sıfırlayabilirsiniz (randevular silinmez).
+
+MÜŞTERİ RANDEVU AKIŞI (şu an)
+  Müşteri formu doldurur → WhatsApp butonu ile talep size gelir →
+  siz onaylayınca randevu kesinleşir.
+  Not: Panel ve site ayrı cihazlarda çalışır; otomatik senkron için
+  sunucu adımı gerekir (server/ klasörü hazır, kurulunca devreye girer).
+
+GÜNCELLEME
+  Fiyat/hizmet/ekip değişince: Panel → Hizmetler & Ekip → kaydet →
+  "Site için kodu kopyala" → index.html içindeki SALON bölümüne yapıştır →
+  yeni dosyayı hostinge tekrar yükle.
+
+İLETİŞİM BİLGİLERİ (siteye işlendi)
+  0546 610 02 97
+  Yazır, Şht. Ali Vasfi Güney Cd. 10a D:e, 42250 Selçuklu / Konya
+  Pazartesi–Cumartesi 09:00–22:30 · Pazar kapalı
